@@ -116,7 +116,7 @@ def model_details(models, location):
     t3 = t()
     latitude = finding_params(models[1], parameter_grid[location]['params'], 'LATITUDE')
     t4 = t()
-    times = [f'{(t1 - t0):.2f}', f'{t2 - t1}:.2f', f'{t3 - t2}:.2f', f'{t4 - t3}:.2f']
+    times = [f'{t1 - t0}:.2f', f'{t2 - t1}:.2f', f'{t3 - t2}:.2f', f'{t4 - t3}:.2f']
     details = pd.concat([floor, building, longitude, latitude])
     details['time'] = times
     return details
