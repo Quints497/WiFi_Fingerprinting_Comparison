@@ -1,6 +1,4 @@
 # Indoor Positioning System with Machine Learning Algorithms - Research Report
-University Dissertation module, based on Indoor Positioning Systems
-
 This repository contains the research report, tuning.py, and dataVisual.ipynb for the project "Indoor Positioning System with Machine Learning Algorithms." The project aims to explore and compare various machine learning algorithms for solving the indoor positioning problem using WiFi fingerprinting. The report provides insights into the challenges of indoor positioning, real-world applications, experimental results, and professional issues related to the use of Indoor Positioning Systems (IPS).
 
 ## Table of Contents
