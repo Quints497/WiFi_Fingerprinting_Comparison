@@ -54,10 +54,10 @@ The dissertation outline outlines the structure of the research report, detailin
 ## Chapter 2: Indoor Positioning Problem
 
 ### 2.1 The Challenge of Indoor Positioning
-This section delves into the challenges faced in indoor positioning, emphasizing the importance of developing safeguards to balance legitimate uses and prevent potential misuse of IPS.
+This section delves into the challenges faced in indoor positioning, emphasising the importance of developing safeguards to balance legitimate uses and prevent potential misuse of IPS.
 
 ### 2.2 WiFi Fingerprinting
-The WiFi fingerprinting technique is explained, shedding light on how it is utilized for indoor positioning systems.
+The WiFi fingerprinting technique is explained, shedding light on how it is utilised for indoor positioning systems.
 
 ### 2.3 Real-World Applications
 This part explores various real-world applications of IPS, such as tracking goods in warehouses, patient care in hospitals, and employee monitoring in retail environments.
@@ -88,7 +88,7 @@ The experimental results of the machine learning algorithms are presented, compa
 ## Chapter 6: Project Management
 
 ### 6.1 Project Life Cycle
-The project's life cycle is outlined, detailing the use of Trello for project management, with tasks categorized and scheduled over several weeks.
+The project's life cycle is outlined, detailing the use of Trello for project management, with tasks categorised and scheduled over several weeks.
 
 ### 6.2 Risk Management
 This section addresses the problems that arose during the project and how they were managed, such as handling noisy data, ensuring data security, and mitigating the risk of hardware failure.
